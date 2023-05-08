@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ABM Kiosco">
+</Property><Property Name="Solution File" Value="C:\ABM Kiosco\ABM Kiosco.sln">
+</Property><Property Name="User Options File" Value="C:\ABM Kiosco\ABM Kiosco.suo">
+</Property><Property Name="Date" Value="Miércoles, 08 de Mayo de 2019">
+</Property><Property Name="Time" Value="22:37 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ABM Kiosco.sln" Description="File successfully backed up as C:\ABM Kiosco\Backup\ABM Kiosco.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ABM Kiosco.suo" Description="File successfully backed up as C:\ABM Kiosco\Backup\ABM Kiosco.suo">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="ABM Kiosco.csproj" Description="Project file successfully backed up as C:\ABM Kiosco\Backup\ABM Kiosco.csproj">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="ABM Kiosco.csproj.user" Description="Project user file successfully backed up as C:\ABM Kiosco\Backup\ABM Kiosco.csproj.user">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Form1.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Form1.Designer.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Program.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\ABM Kiosco\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Properties\Settings.settings" Description="File successfully backed up as C:\ABM Kiosco\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Form1.resx" Description="File successfully backed up as C:\ABM Kiosco\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="Properties\Resources.resx" Description="File successfully backed up as C:\ABM Kiosco\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="ABM Kiosco.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ABM Kiosco" Source="ABM Kiosco.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ABM Kiosco.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ABM Kiosco.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ABM Kiosco" Source="ABM Kiosco.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

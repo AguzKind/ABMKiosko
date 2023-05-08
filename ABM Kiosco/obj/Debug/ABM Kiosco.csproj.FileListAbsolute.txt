@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\bin\Debug\ABM Kiosco.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\bin\Debug\ABM Kiosco.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ABM_Kiosco.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ABM_Kiosco.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ABM Kiosco.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ABM Kiosco.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\ABM Kiosco\obj\Debug\ABM Kiosco.pdb
+C:\ABM Kiosco\obj\Debug\ABM Kiosco.exe
+C:\ABM Kiosco\obj\Debug\ABM Kiosco.pdb
+C:\ABM Kiosco\bin\Debug\ABM Kiosco.exe
+C:\ABM Kiosco\bin\Debug\ABM Kiosco.pdb
+C:\ABM Kiosco\obj\Debug\ResolveAssemblyReference.cache
+C:\ABM Kiosco\obj\Debug\ABM_Kiosco.Form1.resources
+C:\ABM Kiosco\obj\Debug\ABM_Kiosco.Properties.Resources.resources
+C:\ABM Kiosco\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\ABM Kiosco\obj\Debug\GenerateResource-ResGen.write.1.tlog
